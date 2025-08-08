@@ -14,12 +14,13 @@ I'm a passionate web developer specializing in building modern, responsive web a
 ---
 
 ## Current Activities
--Exploring Next.js, Redux, and TypeScript to strengthen my skills
--Working on an online e-learning website called LearnIQ
--Deepening my knowledge of React for building better apps
--Enhancing my other projects to make them more visually interactive
+- Exploring Next.js, Redux, and TypeScript to strengthen my skills
+- Working on an online e-learning website called LearnIQ
+- Deepening my knowledge of React for building better apps
+- Enhancing my other projects to make them more visually interactive
 
 ---
+
 
 ## Skills
 
