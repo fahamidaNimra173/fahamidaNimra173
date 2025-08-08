@@ -6,6 +6,7 @@
 # Hi, I'm Fahamida Nimra 👋
 ### Frontend Developer | MERN Stack Developer
 
+
 ---
 
 ## About Me
@@ -105,11 +106,11 @@ I'm a passionate web developer specializing in building modern, responsive web a
 ---
 
 ## Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahamidaNimra173) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahmida-nimra) 
+
 
 ---
 
 ## GitHub Stats
-![Fahamida Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Fahamida Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahamidaNimra173&show_icons=true&theme=radical)
