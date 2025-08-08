@@ -131,11 +131,6 @@ I'm a passionate web developer specializing in building modern, responsive web a
     style="border-radius: 10px;"
   />
    <!-- Contribution streak stats -->
-<img
-    src="https://ghchart.rshah.org/fahamidaNimra173"
-    alt="Fahamida Nimra's GitHub contributions"
-    height="180"
-    style="border-radius: 10px;"
-  />
+
 
 </p>
