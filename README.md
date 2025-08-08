@@ -130,5 +130,12 @@ I'm a passionate web developer specializing in building modern, responsive web a
     height="180"
     style="border-radius: 10px;"
   />
+   <!-- Contribution streak stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fahamidaNimra173&theme=radical"
+    alt="Fahamida Nimra's GitHub streak stats"
+    height="180"
+    style="border-radius: 10px;"
+  />
 
 </p>
