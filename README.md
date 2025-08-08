@@ -55,17 +55,16 @@ I'm a passionate web developer specializing in building modern, responsive web a
   <a href="https://nodejs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
   </a>
-  <a href="https://expressjs.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express" alt="Express" height="30" />
-  </a>
+  <!-- Express has no official icon -->
+  **Express**
   <a href="https://www.mongodb.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
   </a>
   <a href="https://tanstack.com/query/latest">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
   </a>
-  <a href="https://axios-http.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" height="30" style="fill:#5A29E4" />
+ <a href="https://axios-http.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" height="30" />
   </a>
   <a href="https://reactrouter.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
@@ -84,9 +83,10 @@ I'm a passionate web developer specializing in building modern, responsive web a
   <a href="https://www.netlify.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="30" />
   </a>
-  <a href="https://surge.sh/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudflare.svg" alt="Surge (Cloudflare icon)" height="30" style="fill:#F38020" />
-  </a>
+  
+  <!-- Surge has no official icon -->
+  **Surge**
+</p>
 </p>
 
 ## Other Tools
