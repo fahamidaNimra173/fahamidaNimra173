@@ -1,7 +1,8 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/RTvFwpy6/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" width="100%" />
-</p>
+<div style="text-align: center;">
+  <img src="https://i.ibb.co/RTvFwpy6/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
+</div>
+
 
 # Hi, I'm Fahamida Nimra 👋
 ### Frontend Developer | MERN Stack Developer
