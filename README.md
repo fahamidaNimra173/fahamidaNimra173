@@ -45,7 +45,7 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
   </a>
   <a href="https://reactrouter.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reactrouter.svg" alt="React Router" height="30" style="fill:#CA4245" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
   </a>
 </p>
 
@@ -56,18 +56,18 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
   </a>
   <!-- Express has no official icon -->
-  <a href="https://expressjs.com/" style="font-weight: 600; font-size: 24px; text-decoration: none; color: black; display: inline-flex; align-items: center; height: 30px;">
+<!--   <a href="https://expressjs.com/" style="font-weight: 600; font-size: 24px; text-decoration: none; color: black; display: inline-flex; align-items: center; height: 30px;">
     Express
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
   </a>
-  <a href="https://tanstack.com/query/latest">
+<!--   <a href="https://tanstack.com/query/latest">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
-  </a>
- <a href="https://axios-http.com/">
+  </a> -->
+<!--  <a href="https://axios-http.com/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" height="30" />
-  </a>
+  </a> -->
   <a href="https://reactrouter.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
   </a>
@@ -87,7 +87,7 @@ I'm a passionate web developer specializing in building modern, responsive web a
   </a>
   
   <!-- Surge has no official icon -->
-  **Surge**
+
 </p>
 </p>
 
