@@ -111,6 +111,24 @@ I'm a passionate web developer specializing in building modern, responsive web a
 
 
 ---
-
 ## GitHub Stats
-![Fahamida Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahamidaNimra173&show_icons=true&theme=radical)
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <!-- General GitHub stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fahamidaNimra173&show_icons=true&theme=radical"
+    alt="Fahamida Nimra's GitHub stats"
+    height="180"
+    style="border-radius: 10px;"
+  />
+
+  <!-- Top languages used -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahamidaNimra173&layout=compact&theme=radical"
+    alt="Fahamida Nimra's top languages"
+    height="180"
+    style="border-radius: 10px;"
+  />
+
+</p>
