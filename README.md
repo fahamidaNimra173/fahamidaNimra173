@@ -45,7 +45,7 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
   </a>
   <a href="https://vitejs.dev/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite" alt="Vite" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" height="30" style="fill:#646CFF" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
   </a>
   <a href="https://axios-http.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=axios" alt="Axios" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" height="30" style="fill:#5A29E4" />
   </a>
   <a href="https://reactrouter.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
@@ -85,7 +85,7 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="30" />
   </a>
   <a href="https://surge.sh/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=surge" alt="Surge" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudflare.svg" alt="Surge (Cloudflare icon)" height="30" style="fill:#F38020" />
   </a>
 </p>
 
