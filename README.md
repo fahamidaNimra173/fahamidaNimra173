@@ -44,8 +44,8 @@ I'm a passionate web developer specializing in building modern, responsive web a
   <a href="https://reactjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
   </a>
-  <a href="https://vitejs.dev/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vite.svg" alt="Vite" height="30" style="fill:#646CFF" />
+  <a href="https://reactrouter.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reactrouter.svg" alt="React Router" height="30" style="fill:#CA4245" />
   </a>
 </p>
 
