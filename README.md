@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/RTvFwpy6/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/RTvFwpy6/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" width="100%" />
 </p>
 
 # Hi, I'm Fahamida Nimra 👋
