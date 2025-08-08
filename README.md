@@ -23,94 +23,82 @@ I'm a passionate web developer specializing in building modern, responsive web a
 
 
 ## Skills
+## Frontend
 
-### Frontend
 <p align="left">
-
-<!-- Frontend -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" alt="HTML5" height="30" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1" alt="CSS3" height="30" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06b6d4" alt="Tailwind CSS" height="30" />
-</a>
-<a href="https://daisyui.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=daisyui" alt="DaisyUI" height="30" />
-</a>
-<a href="https://www.framer.com/motion/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer" alt="Framer Motion" height="30" />
-</a>
-<a href="https://firebase.google.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase" height="30" />
-</a>
-<a href="https://reactjs.org/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
-</a>
-<a href="https://vitejs.dev/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite" alt="Vite" height="30" />
-</a>
-
-<!-- Backend -->
-<a href="https://nodejs.org/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express" alt="Express" height="30" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
-</a>
-<a href="https://tanstack.com/query/latest">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
-</a>
-<a href="https://axios-http.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=axios" alt="Axios" height="30" />
-</a>
-<a href="https://reactrouter.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
-</a>
-
-<!-- Deployment -->
-<a href="https://firebase.google.com/docs/hosting">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase Hosting" height="30" />
-</a>
-<a href="https://vercel.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel" alt="Vercel" height="30" />
-</a>
-<a href="https://www.netlify.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="30" />
-</a>
-<a href="https://surge.sh/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=surge" alt="Surge" height="30" />
-</a>
-
-<!-- Other -->
-<a href="https://www.python.org/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python" alt="Python" height="30" />
-</a>
-<a href="https://www.canva.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva" alt="Canva" height="30" />
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma" alt="Figma" height="30" />
-</a>
-<a href="https://www.adobe.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=adobe" alt="Adobe" height="30" />
-</a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" alt="HTML5" height="30" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1" alt="CSS3" height="30" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06b6d4" alt="Tailwind CSS" height="30" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer" alt="Framer Motion" height="30" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase" height="30" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite" alt="Vite" height="30" />
+  </a>
 </p>
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" />
+## Backend
 
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express" alt="Express" height="30" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
+  </a>
+  <a href="https://tanstack.com/query/latest">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
+  </a>
+  <a href="https://axios-http.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=axios" alt="Axios" height="30" />
+  </a>
+  <a href="https://reactrouter.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
+  </a>
+</p>
+
+## Deployment
+
+<p align="left">
+  <a href="https://firebase.google.com/docs/hosting">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase Hosting" height="30" />
+  </a>
+  <a href="https://vercel.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel" alt="Vercel" height="30" />
+  </a>
+  <a href="https://www.netlify.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="30" />
+  </a>
+  <a href="https://surge.sh/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=surge" alt="Surge" height="30" />
+  </a>
+</p>
+
+## Other Tools
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python" alt="Python" height="30" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma" alt="Figma" height="30" />
+  </a>
+</p>
 
 ---
 
