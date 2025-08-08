@@ -56,7 +56,9 @@ I'm a passionate web developer specializing in building modern, responsive web a
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
   </a>
   <!-- Express has no official icon -->
-  **Express**
+  <a href="https://expressjs.com/" style="font-weight: 600; font-size: 24px; text-decoration: none; color: black; display: inline-flex; align-items: center; height: 30px;">
+    Express
+  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
   </a>
