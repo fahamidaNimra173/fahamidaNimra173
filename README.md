@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div style="text-align: center;">
-  <img src="https://i.ibb.co/RTvFwpy6/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
+  <img src="https://i.ibb.co/BVZ4g89g/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
 </div>
 
 
