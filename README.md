@@ -15,8 +15,13 @@
 ---
 
 ## About Me
-I'm a passionate web developer specializing in building modern, responsive web applications. I enjoy solving problems through code and continuously learning new technologies to improve my skills.
+I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and visually appealing web applications. I like working with React, Tailwind, and various UI libraries to build smooth, interactive interfaces, while using Express.js and MongoDB to develop efficient, data-driven back-end systems. Beyond coding, I enjoy designing creative visuals and focusing on building meaningful, detail-oriented, and SEO-friendly projects that deliver real impact.
 
+## 📫 Contact Me
+
+- ✉️ Email: [fahmidanimra@gmail.com](mailto:fahmidanimra@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/fahamida-nimra](https://www.linkedin.com/in/fahamida-nimra)  
+- 📱 WhatsApp: [+8801568029731](https://wa.me/8801568029731)
 ---
 
 ## Current Activities
