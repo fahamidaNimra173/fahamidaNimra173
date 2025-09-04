@@ -117,7 +117,7 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahamidaNimra173) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fahmida-nimra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahmida-nimra/) 
 
 
 ---
