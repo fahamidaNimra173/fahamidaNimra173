@@ -20,7 +20,7 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
 ## 📫 Contact Me
 
 - ✉️ Email: [fahmidanimra@gmail.com](mailto:fahmidanimra@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/fahamida-nimra](https://www.linkedin.com/in/fahamida-nimra)  
+- 💼 LinkedIn: [linkedin.com/in/fahamida-nimra](https://www.linkedin.com/in/fahmida-nimra/)  
 - 📱 WhatsApp: [+8801568029731](https://wa.me/8801568029731)
 ---
 
