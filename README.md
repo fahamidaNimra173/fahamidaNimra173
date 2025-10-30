@@ -25,9 +25,9 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
 ---
 
 ## Current Activities
-- 🚀 Exploring Next.js, Redux, and TypeScript to strengthen my skills
-- 💻 Working on an online e-learning website called LearnIQ
-- ⚛️ Deepening my knowledge of React for building better apps
+- 🚀 Exploring PHP , MySQL, and soket IO to strengthen my skills
+- 💻 Working on JobQuest team project which is basucally a job portal
+- ⚛️ Deepening my knowledge of Next.js for building better apps
 - 🎨 Enhancing my other projects to make them more visually interactive
 
 
