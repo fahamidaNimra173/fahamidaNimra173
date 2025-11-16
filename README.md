@@ -117,24 +117,18 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
 
 ---
 ## GitHub Stats
-
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <!-- General GitHub stats -->
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=fahamidaNimra173&show_icons=true&theme=radical"
     alt="Fahamida Nimra's GitHub stats"
     height="180"
-    style="border-radius: 10px;"
   />
-
-  <!-- Top languages used -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahamidaNimra173&layout=compact&theme=radical"
     alt="Fahamida Nimra's top languages"
     height="180"
-    style="border-radius: 10px;"
   />
+</p>
    <!-- Contribution streak stats -->
 
 
