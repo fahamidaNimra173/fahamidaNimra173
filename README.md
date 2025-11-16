@@ -12,7 +12,7 @@
 
 
 # Hi, I'm Fahamida Nimra 👋
-### Frontend Developer | MERN Stack Developer
+### Frontend Developer | MERN Stack Developer | Web Developer
 
 
 ---
@@ -86,12 +86,7 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
   <a href="https://axios-http.com/">
     <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" height="50" />
   </a>
-</p>
-
-## Deployment
-
-<p align="left">
-  <a href="https://firebase.google.com/docs/hosting">
+    <a href="https://firebase.google.com/docs/hosting">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase Hosting" height="50" />
   </a>
   <a href="https://vercel.com/">
@@ -100,22 +95,16 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
   <a href="https://www.netlify.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="50" />
   </a>
-  
-  <!-- Surge has no official icon -->
-
-</p>
-</p>
-
-## Other Tools
-
-<p align="left">
-  <a href="https://www.python.org/">
+    <a href="https://www.python.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python" alt="Python" height="50" />
   </a>
   <a href="https://www.figma.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma" alt="Figma" height="50" />
   </a>
 </p>
+
+
+
 
 ---
 
