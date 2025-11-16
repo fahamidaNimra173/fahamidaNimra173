@@ -1,10 +1,10 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co/Gqf20XY/Purple-and-Blue-Gradient-Gamer-Youtube-Banner-1.png" 
        alt="MERN Stack Developer Banner" 
        style="max-width: 100%; height: auto;">
-</p>
-<!-- ![image_alt](https://github.com/fahamidaNimra173/fahamidaNimra173/blob/fd81ea9b7a64f739154b6bf9ba2585a4d0247671/Purple-and-Blue-Gradient-Gamer-Youtube-Banner%20(1).png?raw=true) -->
+</p> -->
+![image_alt](https://github.com/fahamidaNimra173/fahamidaNimra173/blob/fd81ea9b7a64f739154b6bf9ba2585a4d0247671/Purple-and-Blue-Gradient-Gamer-Youtube-Banner%20(1).png?raw=true) 
 
 
 
