@@ -36,10 +36,7 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
 
 ---
 
-
 ## Skills
-## Frontend
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" alt="HTML5" height="30" />
@@ -47,44 +44,47 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1" alt="CSS3" height="30" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7df1e" alt="JavaScript" height="30" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" height="30" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js" alt="Next.js" height="30" />
+  </a>
   <a href="https://tailwindcss.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06b6d4" alt="Tailwind CSS" height="30" />
   </a>
   <a href="https://www.framer.com/motion/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer" alt="Framer Motion" height="30" />
   </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase" height="30" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="30" />
-  </a>
   <a href="https://reactrouter.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
   </a>
-</p>
-
-## Backend
-
-<p align="left">
   <a href="https://nodejs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="30" />
   </a>
-  <!-- Express has no official icon -->
-<!--   <a href="https://expressjs.com/" style="font-weight: 600; font-size: 24px; text-decoration: none; color: black; display: inline-flex; align-items: center; height: 30px;">
-    Express
-  </a> -->
+  <a href="https://expressjs.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express" alt="Express" height="30" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777bb4" alt="PHP" height="30" />
+  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="30" />
   </a>
-<!--   <a href="https://tanstack.com/query/latest">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tanstack" alt="TanStack" height="30" />
-  </a> -->
-<!--  <a href="https://axios-http.com/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/axios.svg" alt="Axios" height="30" />
-  </a> -->
-  <a href="https://reactrouter.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="30" />
+  <a href="https://firebase.google.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase" height="30" />
+  </a>
+  <a href="https://tanstack.com/query/latest">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactquery&svgfill=ff4154" alt="TanStack Query" height="30" />
+  </a>
+  <a href="https://axios-http.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=axios&svgfill=5a29e4" alt="Axios" height="30" />
   </a>
 </p>
 
