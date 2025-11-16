@@ -129,6 +129,39 @@ I’m a MERN stack developer who enjoys creating dynamic, user-friendly, and vis
     height="180"
   />
 </p>
+
+<!-- GitHub Streak Stats -->
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=fahamidaNimra173&theme=radical"
+    alt="Fahamida Nimra's GitHub streak"
+    height="180"
+  />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=fahamidaNimra173&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
+    alt="Fahamida Nimra's trophies"
+  />
+</p>
+
+<!-- Activity Graph -->
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fahamidaNimra173&theme=react-dark&hide_border=true"
+    alt="Fahamida Nimra's activity graph"
+  />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=fahamidaNimra173&color=blueviolet&style=flat-square&label=Profile+Views"
+    alt="Profile views"
+  />
+</p>
    <!-- Contribution streak stats -->
 
 
