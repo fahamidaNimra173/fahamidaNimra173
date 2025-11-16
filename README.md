@@ -1,6 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/BVZ4g89g/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" alt="MERN Stack Developer Banner" width="1200" height="700">
+  <img src="https://i.ibb.co/BVZ4g89g/Purple-and-Blue-Gradient-Gamer-Youtube-Banner.png" 
+       alt="MERN Stack Developer Banner" 
+       style="max-width: 100%; height: auto;">
 </p>
 
 
