@@ -52,10 +52,10 @@
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" height="50" />
   </a>
   <a href="https://ui.shadcn.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=shadcnui" alt="shadcn/ui" height="50" />
+    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="50" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="50" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61DAFB" alt="React" height="50" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js" alt="Next.js" height="50" />
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="50" />
   </a>
   <a href="https://jwt.io/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtokens&svgfill=000000" alt="JWT" height="50" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="50" />
   </a>
   <a href="https://www.php.net/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777bb4" alt="PHP" height="50" />
@@ -93,7 +93,7 @@
   <a href="https://axios-http.com/">
     <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" height="50" />
   </a>
-    <a href="https://firebase.google.com/docs/hosting">
+  <a href="https://firebase.google.com/docs/hosting">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase Hosting" height="50" />
   </a>
   <a href="https://vercel.com/">
@@ -102,7 +102,7 @@
   <a href="https://www.netlify.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="50" />
   </a>
-    <a href="https://www.python.org/">
+  <a href="https://www.python.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python" alt="Python" height="50" />
   </a>
   <a href="https://www.figma.com/">
