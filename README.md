@@ -13,13 +13,13 @@
 
 <div>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="coding gif">
-  <p>   </p>
+ <br />
   <p>
     I'm a MERN stack developer who enjoys creating dynamic, user-friendly, and visually appealing web applications. I like working with React, Tailwind, and various UI libraries to build smooth, interactive interfaces, while using Express.js and MongoDB to develop efficient, data-driven back-end systems. Beyond coding, I enjoy designing creative visuals and focusing on building meaningful, detail-oriented, and SEO-friendly projects that deliver real impact.
   </p>
 </div>
 
-<br clear="right"/>
+
 
 ## 📫 Contact Me
 
