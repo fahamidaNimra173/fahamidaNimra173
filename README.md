@@ -51,6 +51,9 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" height="50" />
   </a>
+  <a href="https://ui.shadcn.com/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=shadcnui" alt="shadcn/ui" height="50" />
+  </a>
   <a href="https://reactjs.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React" height="50" />
   </a>
@@ -71,6 +74,9 @@
   </a>
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="50" />
+  </a>
+  <a href="https://jwt.io/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jsonwebtokens&svgfill=000000" alt="JWT" height="50" />
   </a>
   <a href="https://www.php.net/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777bb4" alt="PHP" height="50" />
@@ -102,8 +108,10 @@
   <a href="https://www.figma.com/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma" alt="Figma" height="50" />
   </a>
+  <a href="https://www.latex-project.org/">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=latex&svgfill=008080" alt="LaTeX" height="50" />
+  </a>
 </p>
-
 
 
 
