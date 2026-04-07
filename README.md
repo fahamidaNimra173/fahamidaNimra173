@@ -37,90 +37,48 @@
 
 ---
 
-## Skills
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" alt="HTML5" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1" alt="CSS3" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7df1e" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178c6" alt="TypeScript" height="50" />
-  </a>
-  <a href="https://ui.shadcn.com/">
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="50" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61DAFB" alt="React" height="50" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js" alt="Next.js" height="50" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06b6d4" alt="Tailwind CSS" height="50" />
-  </a>
-  <a href="https://www.framer.com/motion/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=framer" alt="Framer Motion" height="50" />
-  </a>
-  <a href="https://reactrouter.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter" alt="React Router" height="50" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" alt="Node.js" height="50" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="50" />
-  </a>
-  <a href="https://jwt.io/">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" height="50" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777bb4" alt="PHP" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" alt="MongoDB" height="50" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase" height="50" />
-  </a>
-  <a href="https://tanstack.com/query/latest">
-    <img src="https://img.shields.io/badge/TanStack_Query-000000?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" height="50" />
-  </a>
-  <a href="https://axios-http.com/">
-    <img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=axios&logoColor=5A29E4" alt="Axios" height="50" />
-  </a>
-  <a href="https://firebase.google.com/docs/hosting">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=f5820f" alt="Firebase Hosting" height="50" />
-  </a>
-  <a href="https://vercel.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel" alt="Vercel" height="50" />
-  </a>
-  <a href="https://www.netlify.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=netlify" alt="Netlify" height="50" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python" alt="Python" height="50" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma" alt="Figma" height="50" />
-  </a>
-  <a href="https://www.latex-project.org/">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=latex&svgfill=008080" alt="LaTeX" height="50" />
-  </a>
-  <a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="50" />
-</a>
-  <a href="https://laravel.com/">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20" alt="Laravel" height="50" />
-</a>
-<a href="https://inertiajs.com/">
-  <img src="https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=inertia&logoColor=9553E9" alt="Inertia.js" height="50" />
-</a>
-</p>
+
+  
+  
+ 
+   ## Skills
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=F06629)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=028DD1)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter&logoColor=CA4245)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-000?style=flat-square&logo=inertia&logoColor=9553E9)
+
+### Backend & APIs
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=659B60)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-000?style=flat-square&logo=axios&logoColor=5A29E4)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery&logoColor=FF4154)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=F5820F)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+
+### Tooling & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-000?style=flat-square&logo=firebase&logoColor=F5820F)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+![LaTeX](https://img.shields.io/badge/LaTeX-000?style=flat-square&logo=latex&logoColor=008080)
 
 
 
