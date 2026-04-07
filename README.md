@@ -111,6 +111,15 @@
   <a href="https://www.latex-project.org/">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=latex&svgfill=008080" alt="LaTeX" height="50" />
   </a>
+  <a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="50" />
+</a>
+  <a href="https://laravel.com/">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20" alt="Laravel" height="50" />
+</a>
+<a href="https://inertiajs.com/">
+  <img src="https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=inertia&logoColor=9553E9" alt="Inertia.js" height="50" />
+</a>
 </p>
 
 
